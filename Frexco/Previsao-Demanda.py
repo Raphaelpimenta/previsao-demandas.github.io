@@ -12,4 +12,4 @@ while parar.upper() != "S":
 
     demandas = float(demandas + qtdDemandas / periodo)
 
-print("3 - Previsão de demanda é de: {}".format(demandas))
+print("3 - Previsão de demanda é de: {} itens".format(demandas))
